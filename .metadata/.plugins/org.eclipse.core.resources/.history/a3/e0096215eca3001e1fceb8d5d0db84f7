@@ -1,0 +1,53 @@
+package PF;
+
+import java.util.List;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class Pf_05 {
+
+	@FindBy(id="user-name") WebElement user;
+	@FindBy(id="password") WebElement passwd;
+	@FindBy(id="login-button") WebElement login;
+	@FindBy(id="add-to-cart-test.allthethings()-t-shirt-(red)") WebElement item1;
+	@FindBy(id="add-to-cart-sauce-labs-onesie") WebElement item2;
+	@FindBy(css="div.inventory_item_name")
+	public List<WebElement> price;
+	@FindBy(xpath="//button[text()='Open Menu']") WebElement menu;
+	@FindBy(xpath="//a[text()='Reset App State']") WebElement reset;
+	@FindBy(xpath="//button[text()='Open Menu']") WebElement open;
+	@FindBy(xpath="//a[text()='Logout']") WebElement signout;
+	
+	WebDriver driver;
+	 
+	public Pf_05(WebDriver driver) {
+		this.driver = driver;
+		PageFactory.initElements(driver, this);
+	}
+	public void user(String usrname,String paswrd) throws InterruptedException {
+		user.sendKeys(usrname);
+		passwd.sendKeys(paswrd);
+		login.click();
+		Thread.sleep(1000);
+	}
+
+	public void addcart() throws InterruptedException {
+		item1.click();
+		item2.click();
+		Thread.sleep(1000);
+	}
+
+	public void openmenu() throws InterruptedException {
+		menu.click();
+		reset.click();
+		Thread.sleep(1000);
+	}
+	public void logout() throws InterruptedException {
+		open.click();
+		signout.click();
+		Thread.sleep(1000);
+	}
+}

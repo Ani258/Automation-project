@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;cap.MyProject.Excel&apos; to &apos;Excel_read&apos;&#x0D;&#x0A;- Original project: &apos;MyProject&apos;&#x0D;&#x0A;- Original element: &apos;cap.MyProject.Excel&apos;&#x0D;&#x0A;- Renamed element: &apos;cap.MyProject.Excel_read&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Excel&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;cap.MyProject{Excel.java[Excel" matchStrategy="1" name="Excel_read" qualified="false" references="true" similarDeclarations="false" stamp="1702213841832" textual="false" version="1.0"/>
+</session>

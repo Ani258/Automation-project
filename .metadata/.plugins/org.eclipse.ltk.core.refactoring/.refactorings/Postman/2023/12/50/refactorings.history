@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.cap.Postman.Rest_Assured&apos; to &apos;Post_restassured&apos;&#x0D;&#x0A;- Original project: &apos;Postman&apos;&#x0D;&#x0A;- Original element: &apos;org.cap.Postman.Rest_Assured&apos;&#x0D;&#x0A;- Renamed element: &apos;org.cap.Postman.Post_restassured&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Rest_Assured&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;org.cap.Postman{Rest_Assured.java[Rest_Assured" matchStrategy="1" name="Post_restassured" qualified="false" references="true" similarDeclarations="false" stamp="1702451898907" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\eclipseProject"/>
+			<item value="C:\eclipseProject\SauceDemosite\src\test\java\stepdefinition\Scenario_01.java"/>
+			<item value="C:\Windows\System32\config\systemprofile\eclipseProject"/>
+			<item value="C:\ani\tha"/>
+			<item value="C:\Windows\System32\config\systemprofile"/>
+			<item value="C:\ani"/>
+			<item value="C:\Windows"/>
+			<item value="C:\Users\ar83\Downloads\idea\IdeaPortal\src\test\resources\leader.feature"/>
+			<item value="C:\Windows\System32\config\systemprofile\eclipseProject\Java_revision\src\revision\Day6_Person.java"/>
+			<item value="C:\Windows\System32\config\systemprofile\eclipseProject\leader\pom.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="org.cap.xyzTestng"/>
+			<item value="org.cap.SauceDemoAutomation"/>
+			<item value="org.cap.XYZ"/>
+			<item value="org.cap.program"/>
+			<item value="org.cap.AutomationBank"/>
+			<item value="org.cap.Bank"/>
+			<item value="org.cap.XYZBank"/>
+			<item value="org.cap"/>
+			<item value="org.cap.make_mytrip"/>
+			<item value="org.cap.testng"/>
+			<item value="org.cap.Basicselenium"/>
+			<item value="org.cap.SauceTest"/>
+			<item value="org.cap.SauceDemosite"/>
+			<item value="org.cap.Demosite"/>
+			<item value="org.cap.sauce"/>
+		</list>
+		<list key="groupId">
+			<item value="org.cap"/>
+			<item value="cap"/>
+		</list>
+		<list key="artifactId">
+			<item value="xyzTestng"/>
+			<item value="SauceDemoAutomation"/>
+			<item value="XYZ"/>
+			<item value="program"/>
+			<item value="AutomationBank"/>
+			<item value="Bank"/>
+			<item value="XYZBank"/>
+			<item value="make_mytrip"/>
+			<item value="testng"/>
+			<item value="Basicselenium"/>
+			<item value="SauceTest"/>
+			<item value="SauceDemosite"/>
+			<item value="Demosite"/>
+			<item value="sauce"/>
+			<item value="Postman"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\ar83\Downloads\TestNGTutorial"/>
+			<item value="C:\eclipseProject\TestNGTutorial"/>
+			<item value="C:\eclipseProject"/>
+			<item value="C:\Windows\System32\config\systemprofile\Bank"/>
+			<item value="C:\Windows\System32\config\systemprofile\eclipseProject\OrangeHRMautomation"/>
+			<item value="C:\Windows\System32\config\systemprofile\eclipseProject\seleniumpractice 1"/>
+			<item value="C:\Users\ar83\Downloads\seleniumpractice 1"/>
+			<item value="C:\Users\ar83\Downloads\seleniumpractice 1\seleniumpractice"/>
+			<item value="C:\Users\ar83\Downloads\testng"/>
+			<item value="C:\Users\ar83\Downloads\RestAssured 1\RestAssured"/>
+			<item value="C:\Windows\System32\config\systemprofile\eclipseProject\Postman"/>
+			<item value="C:\Users\ar83\Downloads\newidea\newideas"/>
+			<item value="C:\Users\ar83\Downloads\automate\APAC\ApacIdea"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="version2"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="836"/>
+		<item key="x" value="720"/>
+		<item key="y" value="0"/>
+	</section>
+</section>
